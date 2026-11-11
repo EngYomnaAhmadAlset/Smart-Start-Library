@@ -1,0 +1,6 @@
+@SmartStart.Api_HostAddress = http://localhost:5207
+
+GET {{SmartStart.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

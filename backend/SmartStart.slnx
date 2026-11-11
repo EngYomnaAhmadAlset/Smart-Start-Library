@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SmartStart.Api/SmartStart.Api.csproj" />
+    <Project Path="src/SmartStart.Application/SmartStart.Application.csproj" />
+    <Project Path="src/SmartStart.Domain/SmartStart.Domain.csproj" />
+    <Project Path="src/SmartStart.Infrastructure/SmartStart.Infrastructure.csproj" />
+  </Folder>
+</Solution>
